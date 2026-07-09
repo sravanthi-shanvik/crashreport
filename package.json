@@ -1,0 +1,13 @@
+{
+  "name": "simple-ts-project",
+  "version": "1.0.0",
+  "description": "A simple TypeScript project",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
